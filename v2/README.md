@@ -10,7 +10,9 @@ Documentation of experimental API: [https://api.superciety.com/docs/#endpoints](
    - Is available via API endpoint: `v1/entities`
    - Manual JSON export provided as: `entities.json`
    - Formatted CSV (can open with Excel) provided as: `entities.csv`
-   - Members who have a 'role' are included in the JSON export; general members can be retrieved from Explorer or API **as holders of the governance token**
+   - Members who have a 'role' are included in the JSON export
+   - Members who have connected at least once to superciety can be retrieved via API `v1/entities/{entityAddress}/members`
+   - Other members can be retrieved from Explorer or MultiversX API **as holders of the governance token**
 2. Number or proposals executed, passed, failed
    - Manual global JSON export provided as: `stats-global.json`
    - Available globally via API: `v1/stats`
