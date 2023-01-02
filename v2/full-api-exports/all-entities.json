@@ -1,0 +1,2321 @@
+[
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqrqlfjlhnm875uyqeza4n932zv3l6mhah27rs8l64mx",
+    "slug": "superciety-dao",
+    "name": "Superciety DAO",
+    "description": "Building the society of tomorrow together\u26a1\ufe0f",
+    "avatarUrl": "https://media.elrond.com/nfts/asset/QmRNVmjDoQCuE8HCs3MyRgPkpeDtgBMHzp3L484MnmZhjo",
+    "isAvatarNft": true,
+    "headerImageUrl": "https://fra1.digitaloceanspaces.com/space.superciety.com/superciety/media/8/header.jpeg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=TM6GAZPN4FPRVUGMWJBD%2F20230102%2Ffra1%2Fs3%2Faws4_request&X-Amz-Date=20230102T003838Z&X-Amz-SignedHeaders=host&X-Amz-Expires=259200&X-Amz-Signature=77447f62707ad6be05d4f860e0cf25e9dcd6652a0eab74b268d1a93b6b5fd456",
+    "verified": true,
+    "private": false,
+    "tags": [],
+    "socials": {
+      "github": "https://github.com/superciety",
+      "discord": "http://superciety.chat",
+      "twitter": "https://twitter.com/SupercietyHQ",
+      "website": "https://superciety.com",
+      "telegram": "https://t.me/SupercietyCommunity"
+    },
+    "governance": {
+      "nft": null,
+      "owned": null,
+      "token": "SUPER-507aa6",
+      "tokenName": "SUPER",
+      "tokenDecimals": 18,
+      "quorum": "10000000000000000000000",
+      "minVoteWeight": null,
+      "minProposeWeight": "5000000000000000000000",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1660va6y429mxz4dkgek0ssny8tcc85zu768t9xgxwhwhjzccl88sga3xjx",
+            "username": "micha.elrond",
+            "name": "micha vie",
+            "bio": "creator of superciety",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmNRZkBX3sSTyh1bz4apLuYVUnaa7Sixnm4A2vWSXdhcDk",
+            "followers": 50,
+            "followings": 11,
+            "connections": {
+              "discord": {
+                "username": "micha vie#8881",
+                "link": "https://discordapp.com/users/647839214314061844"
+              },
+              "github": {
+                "username": "michavie",
+                "link": "https://github.com/michavie"
+              },
+              "telegram": {
+                "username": "michavie",
+                "link": "https://t.me/michavie"
+              },
+              "twitter": {
+                "username": "michavi3",
+                "link": "https://twitter.com/michavi3"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      },
+      {
+        "name": "builder",
+        "users": [
+          {
+            "address": "erd17pk956pvw6e6amzq4kune8fk9l3jhl464fva33fgqhxtfmejqy3qxwrhym",
+            "username": "infinity899.elrond",
+            "name": "Andrei",
+            "bio": "to infinity and beyond",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmTHbmfrNGqao95Li5tE6ZLvFQcJnJbP6mscu2isqJhjF7/power.gif",
+            "followers": 47,
+            "followings": 68,
+            "connections": {
+              "discord": {
+                "username": "Infinity#9174",
+                "link": "https://discordapp.com/users/260225164392923139"
+              },
+              "github": {
+                "username": "infinity899",
+                "link": "https://github.com/infinity899"
+              },
+              "telegram": {
+                "username": "infinity8999",
+                "link": "https://t.me/infinity8999"
+              },
+              "twitter": {
+                "username": "infinity8999",
+                "link": "https://twitter.com/infinity8999"
+              }
+            },
+            "boosterUntil": null
+          },
+          {
+            "address": "erd19lqhdya8s97yh0p495mxd2addpkm7t9fczd5h99s4fhy53g29kqsycms7q",
+            "username": "flightofthefox.elrond",
+            "name": "flightofthefox",
+            "bio": "\ud83e\udd8a in the kitchen cooking up something DAOlicious",
+            "hasProfileImage": false,
+            "profileImageUrl": "https://api.superciety.com/images/profile-picture-placeholder.png",
+            "followers": 6,
+            "followings": 0,
+            "connections": {
+              "discord": {
+                "username": "flightofthefox#0292",
+                "link": "https://discordapp.com/users/303508356159635456"
+              },
+              "github": {
+                "username": "flightofthefox",
+                "link": "https://github.com/flightofthefox"
+              },
+              "telegram": {
+                "username": "flightofthefox",
+                "link": "https://t.me/flightofthefox"
+              },
+              "twitter": {
+                "username": "flightofthefox",
+                "link": "https://twitter.com/flightofthefox"
+              }
+            },
+            "boosterUntil": null
+          },
+          {
+            "address": "erd1fah2n0hdm0d2n3npzn4m8fwcctvucn3l3q0fxffj6y8hvx2qt7yq8pt26x",
+            "username": "bln92.elrond",
+            "name": "Adrian bLn",
+            "bio": "just DAO it",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmXEDuYmTTGyoSiv5AxTdeLBttbvFEqZme8vxeY9B6XNLm/4241.png",
+            "followers": 35,
+            "followings": 73,
+            "connections": {
+              "discord": {
+                "username": "Adrian bLn | Superciety.com#4700",
+                "link": "https://discordapp.com/users/696640816202121297"
+              },
+              "telegram": {
+                "username": "abLn92",
+                "link": "https://t.me/abLn92"
+              },
+              "twitter": {
+                "username": "abLn92",
+                "link": "https://twitter.com/abLn92"
+              }
+            },
+            "boosterUntil": null
+          },
+          {
+            "address": "erd1kz86gzqp072337pgxaykqn6f5pez30gvu9tnz8cgm7x746ql6pgs8jhr98",
+            "username": "flaka.elrond",
+            "name": "Flaka\ud83d\udd25",
+            "bio": "Superciety Crew Member",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmWQdss98x6vspEaN1qNC1nz45ymZY2ZucVFwU94iscmeL/grid_02.png",
+            "followers": 57,
+            "followings": 163,
+            "connections": {
+              "discord": {
+                "username": "Flaka#4174",
+                "link": "https://discordapp.com/users/529989156961779713"
+              },
+              "github": {
+                "username": "Flakkka",
+                "link": "https://github.com/Flakkka"
+              },
+              "telegram": {
+                "username": "Flakarika",
+                "link": "https://t.me/Flakarika"
+              },
+              "twitter": {
+                "username": "GenuLemny",
+                "link": "https://twitter.com/GenuLemny"
+              },
+              "youtube": {
+                "username": "Lemny Genu",
+                "link": "https://www.youtube.com/c/Lemny Genu"
+              }
+            },
+            "boosterUntil": null
+          },
+          {
+            "address": "erd1ead9zrtkkz93gtxa5qztr4nwtc3rsznfdc4v3me7yn5a5xzvt7sqp3mkk0",
+            "username": "radyss.elrond",
+            "name": "Radys",
+            "bio": "Working behind the scenes!",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/bafybeif46dugsf3u5dmeji5wyneawwte4iicnc5rgeqiput2fishzsf3u4/1679.png",
+            "followers": 21,
+            "followings": 118,
+            "connections": {
+              "discord": {
+                "username": "Supercitizen#4330",
+                "link": "https://discordapp.com/users/814067337413263391"
+              },
+              "github": {
+                "username": "RaduBIt",
+                "link": "https://github.com/RaduBIt"
+              },
+              "telegram": {
+                "username": "RaduAl",
+                "link": "https://t.me/RaduAl"
+              },
+              "twitter": {
+                "username": "_Radyson",
+                "link": "https://twitter.com/_Radyson"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgq7764udyhgll20qg4zxr6k2pl88ska78p27rsqfrk4p",
+    "slug": "burn-dao",
+    "name": "Burn DAO",
+    "description": "A fitness DAO where we motivate each other to burn calories together.\nHealth is wealth.",
+    "avatarUrl": "https://media.elrond.com/nfts/asset/QmYaQj76RV4KsDbukQWKyQu8pN3a7TvyqXRqkedbttTzJo/burnDAO.png",
+    "isAvatarNft": true,
+    "headerImageUrl": null,
+    "verified": false,
+    "private": false,
+    "tags": [],
+    "socials": {
+      "discord": "https://discord.gg/FY2zpugP",
+      "twitter": "https://twitter.com/OfficialBurnDAO"
+    },
+    "governance": {
+      "nft": null,
+      "owned": null,
+      "token": "BURN-68d4b2",
+      "tokenName": "BURN",
+      "tokenDecimals": 18,
+      "quorum": "20000000000000000000000",
+      "minVoteWeight": null,
+      "minProposeWeight": "5000000000000000000000",
+      "votingPeriodMinutes": 2880
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd17pk956pvw6e6amzq4kune8fk9l3jhl464fva33fgqhxtfmejqy3qxwrhym",
+            "username": "infinity899.elrond",
+            "name": "Andrei",
+            "bio": "to infinity and beyond",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmTHbmfrNGqao95Li5tE6ZLvFQcJnJbP6mscu2isqJhjF7/power.gif",
+            "followers": 47,
+            "followings": 68,
+            "connections": {
+              "discord": {
+                "username": "Infinity#9174",
+                "link": "https://discordapp.com/users/260225164392923139"
+              },
+              "github": {
+                "username": "infinity899",
+                "link": "https://github.com/infinity899"
+              },
+              "telegram": {
+                "username": "infinity8999",
+                "link": "https://t.me/infinity8999"
+              },
+              "twitter": {
+                "username": "infinity8999",
+                "link": "https://twitter.com/infinity8999"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqp3mmvhapz2ex6wkjfx90842dch98rj6s27rs7u7vu9",
+    "slug": "mrkhrfbek",
+    "name": "mrkhrfbek",
+    "description": "testerngbvjrhbg",
+    "avatarUrl": "",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": false,
+    "private": true,
+    "tags": [],
+    "socials": [],
+    "governance": {
+      "nft": false,
+      "owned": null,
+      "token": "KOSONBIS-904930",
+      "tokenName": "KOSONBIS",
+      "tokenDecimals": 18,
+      "quorum": "1",
+      "minVoteWeight": null,
+      "minProposeWeight": "1",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1qw4qh64mpyx50xvmnfscj4ntczmn5q52tna6j4p9ar8qka7cl5aq6ckdh0",
+            "username": "kikid.elrond",
+            "name": null,
+            "bio": null,
+            "hasProfileImage": false,
+            "profileImageUrl": "https://api.superciety.com/images/profile-picture-placeholder.png",
+            "followers": 0,
+            "followings": 0,
+            "connections": [],
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqqz8zk9u6x59ltpq0ad5un02egfkzrws227rsk5slwh",
+    "slug": "esdtmarket-dao",
+    "name": "EsdtMarket DAO",
+    "description": "A peer-to-peer ESDT Market designed for trustless swaps and full decentralization",
+    "avatarUrl": "https://media.elrond.com/nfts/asset/QmXD9GoyunJHHC9ULipiNe8Ax1YipEcCZEWSkG7hTia8nj/Frame16.png",
+    "isAvatarNft": true,
+    "headerImageUrl": null,
+    "verified": true,
+    "private": false,
+    "tags": [],
+    "socials": {
+      "twitter": "https://twitter.com/EsdtMarket",
+      "website": "https://esdt.market",
+      "telegram": "https://t.me/EsdtMarket"
+    },
+    "governance": {
+      "nft": false,
+      "owned": null,
+      "token": "MKT-a7282b",
+      "tokenName": "MKT",
+      "tokenDecimals": 18,
+      "quorum": "10000000000000000000000",
+      "minVoteWeight": null,
+      "minProposeWeight": "100000000000000000000",
+      "votingPeriodMinutes": 2880
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1kcx0ha7j206tu4lke6vudq3h4dk88dz06pwugjf3q2rp2jd6rp8swmzjzu",
+            "username": "esdtmarket.elrond",
+            "name": "EsdtMarket",
+            "bio": null,
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmXD9GoyunJHHC9ULipiNe8Ax1YipEcCZEWSkG7hTia8nj/Frame16.png",
+            "followers": 35,
+            "followings": 1,
+            "connections": {
+              "twitter": {
+                "username": "EsdtMarket",
+                "link": "https://twitter.com/EsdtMarket"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgq3sju67808muwatjkdeu50sd4fgx5zmjf27rsf8tvr3",
+    "slug": "landboard-dao",
+    "name": "Landboard DAO",
+    "description": "Decentralized governance for Landboard, Elrond's first Metaverse ecosystem.",
+    "avatarUrl": "https://media.elrond.com/nfts/asset/QmcZ95dUxMvGNpYcWeaK5dgeDScyBN9a3KTgX2aLm1VVts/landboard.jpeg",
+    "isAvatarNft": true,
+    "headerImageUrl": null,
+    "verified": true,
+    "private": false,
+    "tags": [],
+    "socials": {
+      "github": "https://github.com/landboard-io/",
+      "discord": "https://discord.gg/Rff4bFrCSD",
+      "twitter": "https://twitter.com/landboard_io",
+      "website": "https://landboard.io",
+      "youtube": "https://www.youtube.com/channel/UC94huuy90LB1X-VI0nmjNOQ",
+      "telegram": "https://t.me/landboardio"
+    },
+    "governance": {
+      "nft": false,
+      "owned": false,
+      "token": "LAND-40f26f",
+      "tokenName": "Landboard",
+      "tokenDecimals": 18,
+      "quorum": "10000000000000000000000",
+      "minVoteWeight": null,
+      "minProposeWeight": "5000000000000000000000",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1nr702luzdsg28rreee46ftamlgsxp3r26mwgcsl5xn7zqkf5gdjsxpzxmr",
+            "username": null,
+            "name": null,
+            "bio": null,
+            "hasProfileImage": false,
+            "profileImageUrl": "https://api.superciety.com/images/profile-picture-placeholder.png",
+            "followers": 0,
+            "followings": 1,
+            "connections": [],
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqfazycdswmpdpx2xuztt6k4w4s8v98t8727rsktjeqv",
+    "slug": "dragons-arena-dao",
+    "name": "Dragons Arena DAO",
+    "description": "Dragons Arena is a MOBA PTE (Play To Earn) game based on the \u26a1 Elrond blockchain technology!",
+    "avatarUrl": "https://media.elrond.com/nfts/asset/QmYYsQBWWto5NDVGbu26YY5nTRXEmuUmU72CBW747PxYqz/5587.png",
+    "isAvatarNft": true,
+    "headerImageUrl": null,
+    "verified": true,
+    "private": false,
+    "tags": [],
+    "socials": {
+      "discord": "https://discord.com/invite/dragonsarena",
+      "twitter": "https://twitter.com/DragonsArena_io",
+      "website": "https://dragonsarena.io/",
+      "youtube": "https://www.youtube.com/channel/UCfvtFHchVbm2EnM5vW9AcIA/videos",
+      "telegram": "https://t.me/dragonsarena_io"
+    },
+    "governance": {
+      "nft": true,
+      "owned": false,
+      "token": "DRG-875e1a",
+      "tokenName": "DragonsArena",
+      "tokenDecimals": 0,
+      "quorum": "10",
+      "minVoteWeight": null,
+      "minProposeWeight": "1",
+      "votingPeriodMinutes": 2880
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1u7vkfqq4ttaxlrmu5mj66q8p99mv5typ234spg3sahkw4heq5sdqk544zu",
+            "username": null,
+            "name": null,
+            "bio": null,
+            "hasProfileImage": false,
+            "profileImageUrl": "https://api.superciety.com/images/profile-picture-placeholder.png",
+            "followers": 0,
+            "followings": 1,
+            "connections": [],
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqjctq24rayr3nydcvu8fg34vdvv9wy7xq27rs3e9yaw",
+    "slug": "artcpaclub-founders-dao",
+    "name": "ArtCPAclub Founders DAO",
+    "description": "ArtCPAclub NFT DAO created for our Founders NFT owners. Shape the future by creating proposals and voting with your NFTs.",
+    "avatarUrl": "https://media.elrond.com/nfts/asset/QmSsgvd8nnZL4aqqfG3QhU8G5gdVab4FECDzZRD1Avbzkn",
+    "isAvatarNft": true,
+    "headerImageUrl": null,
+    "verified": true,
+    "private": false,
+    "tags": [],
+    "socials": {
+      "discord": "https://discord.gg/jmfjQESvJY",
+      "twitter": "https://twitter.com/_Official_CPA",
+      "website": "https://artcpaclub.com/",
+      "telegram": "https://t.me/ArtCPAclub_Official"
+    },
+    "governance": {
+      "nft": true,
+      "owned": false,
+      "token": "CPA-76d979",
+      "tokenName": "ArtCPAclubFounders",
+      "tokenDecimals": 0,
+      "quorum": "4",
+      "minVoteWeight": null,
+      "minProposeWeight": "2",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1j5fdqzwr6jes7vh5uxmyg9ekug5yud84578m2aft56wgunulwsgsaz9n42",
+            "username": "cipff.elrond",
+            "name": "Ciprian Popovici",
+            "bio": "Just another soul living and traveling this realm. NFT enthusiast and creator. I prefer Elrond Network because of its amazing community, negative carbon pollution, and low fees. In continuous search of high art standards to share with the community.",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmTpMPcRym8xTxWUUUncFVxfpmaMdBjCpEFfswUGbK6Vsq",
+            "followers": 7,
+            "followings": 1,
+            "connections": {
+              "discord": {
+                "username": "CIP#0674",
+                "link": "https://discordapp.com/users/500448269642498088"
+              },
+              "twitter": {
+                "username": "_Official_CPA",
+                "link": "https://twitter.com/_Official_CPA"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqq0yx7w5lguw5e5067j2lpl96t5vp3xcu27rswu3eq4",
+    "slug": "ebuds",
+    "name": "eBuds",
+    "description": "Decentralized community project.\nWeb3 experience.",
+    "avatarUrl": "https://media.elrond.com/nfts/asset/QmbFx4yXFrWCWXEBxSCWgn7qagV4fPjd4ZGPd6ugu7r3LY/678.png",
+    "isAvatarNft": true,
+    "headerImageUrl": null,
+    "verified": false,
+    "private": false,
+    "tags": [],
+    "socials": {
+      "twitter": "https://twitter.com/ebudsNFT",
+      "telegram": "https://t.me/ElrondBuds"
+    },
+    "governance": {
+      "nft": true,
+      "owned": false,
+      "token": "BUD-3ee0cf",
+      "tokenName": "eBuds",
+      "tokenDecimals": 0,
+      "quorum": "5",
+      "minVoteWeight": null,
+      "minProposeWeight": "3",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd10l0mhny35p8gh32vfxteealjaef0rzvpf7ajl3hvsnpvwvn4kfhqf2gqla",
+            "username": "ebuds.elrond",
+            "name": "eBudsDAO",
+            "bio": "eBuds is built on MultiversX and is a decentralized autonomous organization that is governed by the eBuds Community.  eBudsDAO manages the $EBUD Token, a cryptocurrency that is used to power the eBuds ecosystem.",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmbFx4yXFrWCWXEBxSCWgn7qagV4fPjd4ZGPd6ugu7r3LY/86.png",
+            "followers": 10,
+            "followings": 7,
+            "connections": {
+              "telegram": {
+                "username": "domnea",
+                "link": "https://t.me/domnea"
+              },
+              "twitter": {
+                "username": "eBudsNFT",
+                "link": "https://twitter.com/eBudsNFT"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqsx65eu9em8e829lp0tr0smt358h20l3327rsj54xzz",
+    "slug": "ghostverse-dao",
+    "name": "GhostVerse DAO",
+    "description": "Get a Mr Ghost NFT and join the DAO to make decisions.",
+    "avatarUrl": "https://media.elrond.com/nfts/asset/QmeASSx1GtQfo2XX8d9A5yHA2k25zyZdvB64H4NuFNnxa8/2315.png",
+    "isAvatarNft": true,
+    "headerImageUrl": null,
+    "verified": true,
+    "private": false,
+    "tags": [],
+    "socials": {
+      "github": "https://github.com/GhostVerseOrg",
+      "discord": "https://discord.gg/tXSeJfVVnH",
+      "twitter": "https://twitter.com/GhostverseOrg",
+      "website": "https://ghostverse.org/"
+    },
+    "governance": {
+      "nft": true,
+      "owned": false,
+      "token": "MRG-1c3ba4",
+      "tokenName": "MaiarGhosts",
+      "tokenDecimals": 0,
+      "quorum": "114",
+      "minVoteWeight": null,
+      "minProposeWeight": "1",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1xuf43l9v4d3lxhfg9ehzh244592gf2an7hmuw9h84gma7j8fdsws60rrqn",
+            "username": "gokai.elrond",
+            "name": "Gokai Labs",
+            "bio": "Contributor and member of GhostVerse DAO.",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmeASSx1GtQfo2XX8d9A5yHA2k25zyZdvB64H4NuFNnxa8/2015.png",
+            "followers": 12,
+            "followings": 36,
+            "connections": {
+              "discord": {
+                "username": "Jeremy | Gokai Labs#0633",
+                "link": "https://discordapp.com/users/337261754939605003"
+              },
+              "github": {
+                "username": "gokaiorg",
+                "link": "https://github.com/gokaiorg"
+              },
+              "telegram": {
+                "username": "GokaiLabs",
+                "link": "https://t.me/GokaiLabs"
+              },
+              "twitter": {
+                "username": "GokaiLabs",
+                "link": "https://twitter.com/GokaiLabs"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqztjaxafcz7d90ps4k4pda7vxfvfjaplr27rskc422w",
+    "slug": "plata-network",
+    "name": "Plata Network",
+    "description": "Racing themed project built on MultiversX",
+    "avatarUrl": "https://media.elrond.com/nfts/asset/bafybeiho74jh6hiksoez2zbiwy64xz5tigb34523cchrgck22a2fsofso4/item.png",
+    "isAvatarNft": true,
+    "headerImageUrl": null,
+    "verified": true,
+    "private": false,
+    "tags": [],
+    "socials": {
+      "twitter": "https://www.twitter.com/plataNetwork",
+      "website": "https://plata.network",
+      "youtube": "https://www.youtube.com/channel/UC2JFtYoRnk2B0L2ZNAtqkfQ",
+      "telegram": "https://t.me/plataNetwork"
+    },
+    "governance": {
+      "nft": false,
+      "owned": false,
+      "token": "PLATA-9ba6c3",
+      "tokenName": "PLATA",
+      "tokenDecimals": 8,
+      "quorum": "50000000000000",
+      "minVoteWeight": null,
+      "minProposeWeight": "50000000000000",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1g3ufcfdlnpamunzpaa4kutg3z7y9vtuqm3twpkh57ye2ppycgenseekdcl",
+            "username": "plata.elrond",
+            "name": "Plata Network",
+            "bio": "Racing themed project built on MultiversX",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/bafybeiho74jh6hiksoez2zbiwy64xz5tigb34523cchrgck22a2fsofso4/item.png",
+            "followers": 36,
+            "followings": 29,
+            "connections": {
+              "twitter": {
+                "username": "plataNetwork",
+                "link": "https://twitter.com/plataNetwork"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqnrgw75lskdrpptz4uv9v9xd7nyzujy3m27rsnxk7uc",
+    "slug": "decentria-dao",
+    "name": "Decentria DAO",
+    "description": "The Governance of Decentria Country",
+    "avatarUrl": "https://media.elrond.com/nfts/asset/QmXU8EA7X5NXH3Kz4qdje58W3PZgsn9CrmXR6bJhsW23Z1/WhatsAppImage2022-08-31at2.35.46PM.jpeg",
+    "isAvatarNft": true,
+    "headerImageUrl": null,
+    "verified": true,
+    "private": false,
+    "tags": [],
+    "socials": {
+      "discord": "https://discord.gg/nGZdxqtvKn",
+      "twitter": "https://twitter.com/Decentria2022",
+      "website": "https://decentria.country/",
+      "telegram": "https://t.me/+SnrkGK08EOuMTG58"
+    },
+    "governance": {
+      "nft": false,
+      "owned": false,
+      "token": "DCM-d74772",
+      "tokenName": "Decentria",
+      "tokenDecimals": 18,
+      "quorum": "10000000000000000000000000",
+      "minVoteWeight": null,
+      "minProposeWeight": "100000000000000000000000",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1w44gv5jkyvuclejht4lcrd5fwv4y98mplem6n9d69vau4vcjnk8qwma33h",
+            "username": null,
+            "name": "Decentria",
+            "bio": "A virtual country with a real economy",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmXU8EA7X5NXH3Kz4qdje58W3PZgsn9CrmXR6bJhsW23Z1/WhatsAppImage2022-08-31at2.35.46PM.jpeg",
+            "followers": 2,
+            "followings": 1,
+            "connections": [],
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqqxu6v3x0xx6vjn6e6jz07fyjkwyl7d3h27rs8pjxzv",
+    "slug": "egldrush-dao",
+    "name": "EgldRush DAO",
+    "description": "Our mission is to create a strong community of people who believe in the Elrond Blockchain future and are willing to take a chance on bold new ideas based on knowledge, passion, and perspective.",
+    "avatarUrl": "https://media.elrond.com/nfts/asset/Qmb7RBnCoGVqs2FTNZCvc9fp8GgRHvkoEMhkjWgeMuoYr3/egldrush.png",
+    "isAvatarNft": true,
+    "headerImageUrl": null,
+    "verified": true,
+    "private": false,
+    "tags": [],
+    "socials": {
+      "discord": "https://discord.gg/YHE2kcHXcs",
+      "twitter": "https://twitter.com/egldrush",
+      "website": "https://egldrush.io/",
+      "telegram": "https://t.me/egldrushio"
+    },
+    "governance": {
+      "nft": true,
+      "owned": false,
+      "token": "EGLDRUSH-90a737",
+      "tokenName": "EgldRush",
+      "tokenDecimals": 0,
+      "quorum": "50",
+      "minVoteWeight": null,
+      "minProposeWeight": "30",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1u0es3nt9tqst4x3au9mttp7z5qwkntsr3pwyjzfp5p92hyvnc0dqclq4wm",
+            "username": "egldrush.elrond",
+            "name": "EgldRush MD",
+            "bio": null,
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/Qmb7RBnCoGVqs2FTNZCvc9fp8GgRHvkoEMhkjWgeMuoYr3/egldrush.png",
+            "followers": 3,
+            "followings": 1,
+            "connections": [],
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqe3kcy8sam47tlvv9enn2ch9esuufl4sw27rsrejaza",
+    "slug": "elrond-wild-west",
+    "name": "Elrond Wild West",
+    "description": "Building together with our community!",
+    "avatarUrl": "https://media.elrond.com/nfts/asset/QmchgoCk22YXhvccEy5s7TaoWEbij1u6vecNbTrwEgGanL/Logo_Stamp.png",
+    "isAvatarNft": true,
+    "headerImageUrl": null,
+    "verified": true,
+    "private": false,
+    "tags": [],
+    "socials": {
+      "discord": "https://discord.gg/mkSKut2CsM",
+      "twitter": "https://twitter.com/elrondwildwest"
+    },
+    "governance": {
+      "nft": true,
+      "owned": false,
+      "token": "EWW-f945f2",
+      "tokenName": "ElrondWildWest",
+      "tokenDecimals": 0,
+      "quorum": "1",
+      "minVoteWeight": null,
+      "minProposeWeight": "1",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1m7503ymnplewqxtaa8myc2046rkm745uyagw7fxaz33wlpkjzzss6mt056",
+            "username": "wildwest.elrond",
+            "name": "Elrond Wild West",
+            "bio": "Built on the Elrond blockchain, Wild West is a project governed by a very strong community, where they delegate us to create one of the most exciting community-based projects in this universe.",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmchgoCk22YXhvccEy5s7TaoWEbij1u6vecNbTrwEgGanL/Logo_Stamp.png",
+            "followers": 6,
+            "followings": 2,
+            "connections": {
+              "discord": {
+                "username": "AudCulori | Elrond Wild West\ud83e\udd20#3293",
+                "link": "https://discordapp.com/users/814751009023852574"
+              },
+              "twitter": {
+                "username": "elrondwildwest",
+                "link": "https://twitter.com/elrondwildwest"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgq8jzrygnhp6r87adhpnc3w8kl4l57x4u527rsqz408v",
+    "slug": "elrond-sharks",
+    "name": "Elrond Sharks",
+    "description": "The official DAO for Elrond Sharks",
+    "avatarUrl": "",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": false,
+    "private": false,
+    "tags": [],
+    "socials": [],
+    "governance": {
+      "nft": true,
+      "owned": false,
+      "token": "SHARKS-be576b",
+      "tokenName": "Sharks",
+      "tokenDecimals": 0,
+      "quorum": "1",
+      "minVoteWeight": null,
+      "minProposeWeight": "1",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1vah2ng65fvawakdweyvsh6qc7m2y2ydcpsxv6xc7cxcmuwnh3cvsvc263f",
+            "username": "timis.elrond",
+            "name": "Shark King",
+            "bio": null,
+            "hasProfileImage": false,
+            "profileImageUrl": "https://api.superciety.com/images/profile-picture-placeholder.png",
+            "followers": 0,
+            "followings": 0,
+            "connections": [],
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgq4y6z7dxpf9k7je2h27vn3uq5ryphsxsn27rsm5ln2t",
+    "slug": "giants-dao",
+    "name": "Giants DAO",
+    "description": "We build Web3 products, making technology a way to invest, engage, earn and have fun.",
+    "avatarUrl": "https://media.elrond.com/nfts/asset/QmYCFkk5BHU8B97D1E16t1JN4enKfMvitoQDFVNZt18FdD/giants.png",
+    "isAvatarNft": true,
+    "headerImageUrl": null,
+    "verified": true,
+    "private": false,
+    "tags": [],
+    "socials": {
+      "github": "https://github.com/Elrond-Giants",
+      "discord": "https://discord.gg/v23VU2Pw6h",
+      "twitter": "https://twitter.com/ElrondGiants",
+      "website": "https://elrondgiants.com/"
+    },
+    "governance": {
+      "nft": false,
+      "owned": false,
+      "token": "GIANT-761d27",
+      "tokenName": "GiantsGold",
+      "tokenDecimals": 18,
+      "quorum": "1500000000000000000000000",
+      "minVoteWeight": null,
+      "minProposeWeight": "50000000000000000000000",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1kvs7mt88m2jjdm2e6s6drch7slshckkzgwtppuwgj5jxs6atx0kqlkvvxu",
+            "username": null,
+            "name": "Giants Reserve",
+            "bio": null,
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/bafybeigdsbu4tkfzn23ufjugvzo4ht7myazyxl6gtecywtj4vlyvekqxea/3621.png",
+            "followers": 4,
+            "followings": 1,
+            "connections": [],
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqmtm378nkzxt5angs05f4yh8sd6alw09c27rsvznkcf",
+    "slug": "theangelscommunity-dao",
+    "name": "TheAngelsCommunity DAO",
+    "description": "DAO for the @ElrondAngelsNFT & @TheAngelsCom. Charity and Community focused NFT project. Website: Elrond-Angels.com",
+    "avatarUrl": "https://media.elrond.com/nfts/asset/QmP6kNXSA4xS9DDbwTCtgCV7RWTRHgXXPdLsPDr8UgwgE2/8.png",
+    "isAvatarNft": true,
+    "headerImageUrl": null,
+    "verified": true,
+    "private": false,
+    "tags": [],
+    "socials": {
+      "discord": "https://discord.gg/WcMXwDVw2F",
+      "twitter": "https://twitter.com/ElrondAngelsNFT",
+      "website": "https://www.elrond-angels.com/",
+      "telegram": "https://t.me/elrondangels"
+    },
+    "governance": {
+      "nft": false,
+      "owned": false,
+      "token": "JOY-43bad3",
+      "tokenName": "JOY",
+      "tokenDecimals": 18,
+      "quorum": "100000000000000000000000",
+      "minVoteWeight": null,
+      "minProposeWeight": "10000000000000000000000",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1ev05hd5jwzvlc7t9ul874jpde42ht00udz6yr63wtt47apl640nshcaxjp",
+            "username": "theangelscommunity.elrond",
+            "name": "Elrond Angels NFT",
+            "bio": "SuperID of @ElrondAngelsNFT and @TheAngelsCom. \nA Charity and Community focused NFT Project.",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmQXrQfw3DZyfYSMw7fDVyBPWn1ctkZRS4aYZhTPHX3R4b/87.jpg",
+            "followers": 1,
+            "followings": 0,
+            "connections": {
+              "discord": {
+                "username": "Silviu | Elrond Angels NFT#9142",
+                "link": "https://discordapp.com/users/975770397423329300"
+              },
+              "github": {
+                "username": "elrondangels",
+                "link": "https://github.com/elrondangels"
+              },
+              "telegram": {
+                "username": "elrondangelsnft",
+                "link": "https://t.me/elrondangelsnft"
+              },
+              "twitter": {
+                "username": "ElrondAngelsNFT",
+                "link": "https://twitter.com/ElrondAngelsNFT"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqck07kf6e3zwz3wypdukf82u5n3wzz0zc27rsznmhz9",
+    "slug": "elrond-moarts-dao",
+    "name": "Elrond Moart's DAO",
+    "description": "A project that blur the lines between the digital and physical world",
+    "avatarUrl": "https://media.elrond.com/nfts/asset/QmQXZpSvtLvgCFjnFC1BqzASUe6sakWX2CvzxhBqWWeiXQ/780.png",
+    "isAvatarNft": true,
+    "headerImageUrl": null,
+    "verified": true,
+    "private": false,
+    "tags": [],
+    "socials": {
+      "discord": "https://discord.gg/cpUbUh7WsS",
+      "twitter": "https://twitter.com/ElrondMoarts",
+      "youtube": "https://www.youtube.com/channel/UCPr7myPtqiL-pa7ttoy9XcQ"
+    },
+    "governance": {
+      "nft": true,
+      "owned": false,
+      "token": "MOARTS-90bdcb",
+      "tokenName": "ElrondMoarts",
+      "tokenDecimals": 0,
+      "quorum": null,
+      "minVoteWeight": null,
+      "minProposeWeight": "1",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1s9uy0ynvucce7huejgwvmtwjexuwr0rmzs7r8gk4092utl26a2lslr0qwr",
+            "username": null,
+            "name": "Elrond Moart's",
+            "bio": "A project that blur the lines between the digital and physical world",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmQXZpSvtLvgCFjnFC1BqzASUe6sakWX2CvzxhBqWWeiXQ/682.png",
+            "followers": 1,
+            "followings": 1,
+            "connections": {
+              "discord": {
+                "username": "Yk The \ud83d\uddff\ud83c\udfdd#3099",
+                "link": "https://discordapp.com/users/776045613703888920"
+              },
+              "twitter": {
+                "username": "ElrondMoarts",
+                "link": "https://twitter.com/ElrondMoarts"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgq9ez0cfmq7l9t7s800mdfagkekqj3g9dv27rsqjagnv",
+    "slug": "vestaxfinance",
+    "name": "VestaX.Finance\u2122",
+    "description": "The planetary scale DEFI Minter Engine operating on MultiversX\u2122",
+    "avatarUrl": "https://media.elrond.com/nfts/asset/QmTgyZf3BmmXfcmahT7VGuYCpAbAaHh8g56W3B99FPZE3y",
+    "isAvatarNft": true,
+    "headerImageUrl": null,
+    "verified": true,
+    "private": false,
+    "tags": [],
+    "socials": { "website": "https://demiourgos.holdings/" },
+    "governance": {
+      "nft": true,
+      "owned": false,
+      "token": "VESTAXDAO-e6c48c",
+      "tokenName": "VestaXDAO",
+      "tokenDecimals": 0,
+      "quorum": "100",
+      "minVoteWeight": null,
+      "minProposeWeight": "10",
+      "votingPeriodMinutes": 1440
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1h6lh2tqjscs4n69c4w4wunu4qw2mz708qn8mqk4quzsyz2syn0aq5gu64s",
+            "username": "ancienthodler.elrond",
+            "name": "AncientHodler\u2122",
+            "bio": "Hodling Crypto since the beginning of Time. As everything else in Nature, hodling is the key to independence, whether financial or of any other nature.",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmX4ndxQJtqTsqqNmjhz5nANF3YaorGemdYAyu8iKGDUHH/160.jpg",
+            "followers": 16,
+            "followings": 7,
+            "connections": {
+              "discord": {
+                "username": "AncientHodler\u2122#9706",
+                "link": "https://discordapp.com/users/396084099732996096"
+              },
+              "github": {
+                "username": "Crypt0plasm",
+                "link": "https://github.com/Crypt0plasm"
+              },
+              "telegram": {
+                "username": "AncientHodler",
+                "link": "https://t.me/AncientHodler"
+              },
+              "twitter": {
+                "username": "AncientHodler_",
+                "link": "https://twitter.com/AncientHodler_"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqsrwlcvx2fdmnwfg4h2yxcm8jcs3sl4jz27rslmaek6",
+    "slug": "test-dao",
+    "name": "Test DAO",
+    "description": "for testing purposes",
+    "avatarUrl": "https://fra1.digitaloceanspaces.com/space.superciety.com/superciety/media/5/App-Icon---Black.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=TM6GAZPN4FPRVUGMWJBD%2F20230102%2Ffra1%2Fs3%2Faws4_request&X-Amz-Date=20230102T003839Z&X-Amz-SignedHeaders=host&X-Amz-Expires=259200&X-Amz-Signature=3b33122fbdde637fc7baf50a2e52f90c631376a75c009d18e13f77461b4046b5",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": false,
+    "private": true,
+    "tags": [],
+    "socials": [],
+    "governance": {
+      "nft": false,
+      "owned": false,
+      "token": "SUPER-507aa6",
+      "tokenName": "SUPER",
+      "tokenDecimals": 18,
+      "quorum": "50000000000000000000",
+      "minVoteWeight": null,
+      "minProposeWeight": "5000000000000000000",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1jd7gxdrv7qkghmm4afzk9hy6pw4qa5cfwt0nl7tmyhqujktc27rskzqmke",
+            "username": "superciety.elrond",
+            "name": "Superciety\u26a1\ufe0f",
+            "bio": "building the society of tomorrow together",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/Qmd4Rw3JDwVFHv1D4yewK7W6Vd2EnGm5xTdpaK91E3rNia/logo.png",
+            "followers": 1014,
+            "followings": 14,
+            "connections": {
+              "twitter": {
+                "username": "SupercietyHQ",
+                "link": "https://twitter.com/SupercietyHQ"
+              }
+            },
+            "boosterUntil": null
+          },
+          {
+            "address": "erd1660va6y429mxz4dkgek0ssny8tcc85zu768t9xgxwhwhjzccl88sga3xjx",
+            "username": "micha.elrond",
+            "name": "micha vie",
+            "bio": "creator of superciety",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmNRZkBX3sSTyh1bz4apLuYVUnaa7Sixnm4A2vWSXdhcDk",
+            "followers": 50,
+            "followings": 11,
+            "connections": {
+              "discord": {
+                "username": "micha vie#8881",
+                "link": "https://discordapp.com/users/647839214314061844"
+              },
+              "github": {
+                "username": "michavie",
+                "link": "https://github.com/michavie"
+              },
+              "telegram": {
+                "username": "michavie",
+                "link": "https://t.me/michavie"
+              },
+              "twitter": {
+                "username": "michavi3",
+                "link": "https://twitter.com/michavi3"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgql9zuu0r5pj9xcx94y08wujmwkn2hcuns27rsdcmzf0",
+    "slug": "demiourgosholdings",
+    "name": "Demiourgos.Holdings\u2122",
+    "description": "NFT Owners Film Company",
+    "avatarUrl": "https://media.elrond.com/nfts/asset/QmczsjNGhMAZ5cQ97YwDLNchenJp8Aa7jT2zJG4oczZF6F",
+    "isAvatarNft": true,
+    "headerImageUrl": null,
+    "verified": true,
+    "private": false,
+    "tags": [],
+    "socials": {
+      "discord": "https://discord.gg/wRGyRYV8",
+      "twitter": "https://twitter.com/DemiourgosH",
+      "website": "https://demiourgos.holdings/",
+      "youtube": "https://www.youtube.com/c/CarpathianPictures"
+    },
+    "governance": {
+      "nft": true,
+      "owned": false,
+      "token": "DEMIOU-6d1b5c",
+      "tokenName": "Snake",
+      "tokenDecimals": 0,
+      "quorum": "100",
+      "minVoteWeight": null,
+      "minProposeWeight": "10",
+      "votingPeriodMinutes": 1440
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1h6lh2tqjscs4n69c4w4wunu4qw2mz708qn8mqk4quzsyz2syn0aq5gu64s",
+            "username": "ancienthodler.elrond",
+            "name": "AncientHodler\u2122",
+            "bio": "Hodling Crypto since the beginning of Time. As everything else in Nature, hodling is the key to independence, whether financial or of any other nature.",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmX4ndxQJtqTsqqNmjhz5nANF3YaorGemdYAyu8iKGDUHH/160.jpg",
+            "followers": 16,
+            "followings": 7,
+            "connections": {
+              "discord": {
+                "username": "AncientHodler\u2122#9706",
+                "link": "https://discordapp.com/users/396084099732996096"
+              },
+              "github": {
+                "username": "Crypt0plasm",
+                "link": "https://github.com/Crypt0plasm"
+              },
+              "telegram": {
+                "username": "AncientHodler",
+                "link": "https://t.me/AncientHodler"
+              },
+              "twitter": {
+                "username": "AncientHodler_",
+                "link": "https://twitter.com/AncientHodler_"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgq92yac2gymwfqnvcac48fsyg2a0qw64ze27rsqdpqm6",
+    "slug": "orcpunks-dao",
+    "name": "Orcpunks DAO",
+    "description": "Orcpunks NFT on @Elrondnetwork.\nPassive income $LKMEX and $ZOG.Orcpunks is a fantasy steampunk world concentrated on Orcs in a diverse world populated by humans, elfs, dwarves and many diferent races",
+    "avatarUrl": "https://media.elrond.com/nfts/asset/QmYwA4ymDxexWdfXzBty36EybVKWojyGwiJFg8QnB657pM",
+    "isAvatarNft": true,
+    "headerImageUrl": null,
+    "verified": true,
+    "private": false,
+    "tags": [],
+    "socials": {
+      "discord": "https://discord.gg/2fW28xDnkk",
+      "twitter": "https://twitter.com/OrcPunks",
+      "website": "https://app.orcpunks.org/",
+      "telegram": "https://t.me/orcpunks"
+    },
+    "governance": {
+      "nft": false,
+      "owned": false,
+      "token": "ZOG-c66239",
+      "tokenName": "ZorgCoin",
+      "tokenDecimals": 6,
+      "quorum": "30000000000",
+      "minVoteWeight": "1000000000",
+      "minProposeWeight": "10000000000",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1t8yms6ayt2uaneyg5zstdsk4eu5ymqzf78tmjf3g4u5g4cql0zdsezdhg3",
+            "username": "orcpunks.elrond",
+            "name": "Peter Rapavy",
+            "bio": "CEO & Co-Founder Orcpunks",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/Qmd4dgYshWFJCDJFCqejKZTBv2TxBsRp21F3Sgc9h9Hbee",
+            "followers": 1,
+            "followings": 2,
+            "connections": {
+              "discord": {
+                "username": "Worca#7469",
+                "link": "https://discordapp.com/users/399930675349946370"
+              },
+              "twitter": {
+                "username": "OrcPunks",
+                "link": "https://twitter.com/OrcPunks"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgq8s9q2cjrxm7uyqkhf336jk537jkxaw7j27rsknqzn7",
+    "slug": "estargames-dao",
+    "name": "Estar.Games DAO",
+    "description": "Building the best gaming ecosystem on Elrond.",
+    "avatarUrl": "https://fra1.digitaloceanspaces.com/space.superciety.com/superciety/media/13/token1000x1000.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=TM6GAZPN4FPRVUGMWJBD%2F20230102%2Ffra1%2Fs3%2Faws4_request&X-Amz-Date=20230102T003839Z&X-Amz-SignedHeaders=host&X-Amz-Expires=259200&X-Amz-Signature=9044920106e9bb4cd1b69b4a8f221c5977d8ccfb455578c465c8140333ccfe0b",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": true,
+    "private": false,
+    "tags": [],
+    "socials": {
+      "discord": "https://discord.estar.games",
+      "twitter": "https://twitter.com/estartoken",
+      "website": "https://estar.games",
+      "telegram": "https://t.me/estartoken"
+    },
+    "governance": {
+      "nft": true,
+      "owned": false,
+      "token": "EQUISTAR-3f393f",
+      "tokenName": "EquiStar",
+      "tokenDecimals": 0,
+      "quorum": "1",
+      "minVoteWeight": null,
+      "minProposeWeight": "1",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd19wjjxty40r6356r5mzjf2fmg8we2gxzshltunntk5tg45pl35r7ql8yzym",
+            "username": "estargames.elrond",
+            "name": "ESTAR GAMES",
+            "bio": "Building the best gaming ecosystem on Elrond.",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmedzZXHo4BgmafqCgusf3wQzDjHRnQEbzpBk7hRowG2hA/630.png",
+            "followers": 7,
+            "followings": 1,
+            "connections": {
+              "github": {
+                "username": "estargames",
+                "link": "https://github.com/estargames"
+              },
+              "twitter": {
+                "username": "EstarToken",
+                "link": "https://twitter.com/EstarToken"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqqh4nd742842g8spaczhcejewr3kfdsz327rs9galyd",
+    "slug": "disruptive-digital-dao",
+    "name": "Disruptive Digital DAO",
+    "description": "Official Elrond SP since 2020.\nFreedom is a fundamental human right. Gold, artwork, cash and bank accounts can be confiscated. We empower everyone to be truly free.\nwebsite: disruptivedigital.eu",
+    "avatarUrl": "",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": false,
+    "private": false,
+    "tags": [],
+    "socials": [],
+    "governance": {
+      "nft": false,
+      "owned": false,
+      "token": "DISRUPTIVE-c20f7c",
+      "tokenName": "DisruptiveDigital",
+      "tokenDecimals": 18,
+      "quorum": "60000000000000000000000000",
+      "minVoteWeight": null,
+      "minProposeWeight": "1200000000000000000000000",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1zd56wz3upkz62ct8ekjr8euzxua0tvt9kt9z599kvnsvmv48g0zsn46xxx",
+            "username": null,
+            "name": null,
+            "bio": null,
+            "hasProfileImage": false,
+            "profileImageUrl": "https://api.superciety.com/images/profile-picture-placeholder.png",
+            "followers": 1,
+            "followings": 1,
+            "connections": [],
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgq9en4snf9wgyc3qrr8twstf0aqcpcfqf927rsfll27l",
+    "slug": "founding8",
+    "name": "Founding8",
+    "description": "The Founding 8 is made up of 8 Elrond passionate enthusiasts from around the world that have come together with several goals in mind!  \nForm a strong club invest into MultiversX nft and esdt treasury",
+    "avatarUrl": "",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": false,
+    "private": false,
+    "tags": [],
+    "socials": [],
+    "governance": {
+      "nft": null,
+      "owned": null,
+      "token": null,
+      "tokenName": null,
+      "tokenDecimals": null,
+      "quorum": null,
+      "minVoteWeight": null,
+      "minProposeWeight": null,
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1wcat0qk32u5xquuds9etauayqs29tqrzs5x3plc6djy54rmatdpsejg6qx",
+            "username": null,
+            "name": "F8",
+            "bio": "To form a club of like minded investors in the Elrond ecosystem. \nCreate quality unique 3D NFT\u2019s built for use cases like games, and metaverse integration! \nBuild ESDT/NFT treasury\nWe added auction in infinity token recently",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/bafybeiagwjuycjp2ebjznsibv6uchtjiph2hpi6ku4on4ba6zm6s7qlgpu/item.jpeg",
+            "followers": 1,
+            "followings": 1,
+            "connections": {
+              "discord": {
+                "username": "Founding8#0256",
+                "link": "https://discordapp.com/users/958574395503312966"
+              },
+              "twitter": {
+                "username": "EgldFounding8",
+                "link": "https://twitter.com/EgldFounding8"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqqkyp6auk2h7y6sdj2w55qp8zad5ddurn27rs47vs2n",
+    "slug": "codingdivision",
+    "name": "Coding.Division\u2122",
+    "description": "The first Company of Blockchain Coding funded and owned by NFT Owners",
+    "avatarUrl": "https://fra1.digitaloceanspaces.com/space.superciety.com/superciety/media/19/Coding-Division-Avatar.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=TM6GAZPN4FPRVUGMWJBD%2F20230102%2Ffra1%2Fs3%2Faws4_request&X-Amz-Date=20230102T003839Z&X-Amz-SignedHeaders=host&X-Amz-Expires=259200&X-Amz-Signature=2887ff62e3817691eb3f3bfe4a85564b99ae882567e5db3c0f3143313886d700",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": true,
+    "private": false,
+    "tags": [],
+    "socials": [],
+    "governance": {
+      "nft": true,
+      "owned": false,
+      "token": "DHCD-bc9963",
+      "tokenName": "DHCodingDivision",
+      "tokenDecimals": 0,
+      "quorum": "500",
+      "minVoteWeight": null,
+      "minProposeWeight": "50",
+      "votingPeriodMinutes": 1440
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1h6lh2tqjscs4n69c4w4wunu4qw2mz708qn8mqk4quzsyz2syn0aq5gu64s",
+            "username": "ancienthodler.elrond",
+            "name": "AncientHodler\u2122",
+            "bio": "Hodling Crypto since the beginning of Time. As everything else in Nature, hodling is the key to independence, whether financial or of any other nature.",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmX4ndxQJtqTsqqNmjhz5nANF3YaorGemdYAyu8iKGDUHH/160.jpg",
+            "followers": 16,
+            "followings": 7,
+            "connections": {
+              "discord": {
+                "username": "AncientHodler\u2122#9706",
+                "link": "https://discordapp.com/users/396084099732996096"
+              },
+              "github": {
+                "username": "Crypt0plasm",
+                "link": "https://github.com/Crypt0plasm"
+              },
+              "telegram": {
+                "username": "AncientHodler",
+                "link": "https://t.me/AncientHodler"
+              },
+              "twitter": {
+                "username": "AncientHodler_",
+                "link": "https://twitter.com/AncientHodler_"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqeu0hvnu04nh4htcpjlmcf6uh84ptx85e27rs88g3gx",
+    "slug": "space-robots",
+    "name": "Space Robots",
+    "description": "An upgradable NFT collection of 7777 #SpaceRobots powered by staking and gamification mechanic built on\u26a1#MultiversX",
+    "avatarUrl": "",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": false,
+    "private": false,
+    "tags": [],
+    "socials": [],
+    "governance": {
+      "nft": true,
+      "owned": false,
+      "token": "SRC-27d8ff",
+      "tokenName": "SpaceRobots",
+      "tokenDecimals": 0,
+      "quorum": "1",
+      "minVoteWeight": null,
+      "minProposeWeight": "1",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd15kw8jphyp4de8ppc0ee0m2jfkq2mszgquymcuat8tjzf6d78wflq3ua8ul",
+            "username": "tarantulotv.elrond",
+            "name": "TarantuloTV",
+            "bio": "Working on building a better world one step at a time! Co-Founder of Space Robots. YT @tarantulotv - Maiar HT \n@tarantulotv",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmZgZj5TajS1fSJrX3x1QGPTP3skj6QLoFsaDJpFYt3AA8/4284.png",
+            "followers": 1,
+            "followings": 1,
+            "connections": {
+              "discord": {
+                "username": "Tarantulo#0844",
+                "link": "https://discordapp.com/users/250745160932130826"
+              },
+              "twitter": {
+                "username": "TarantuloTV",
+                "link": "https://twitter.com/TarantuloTV"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqmdue0frhs20txg4slcy0393vsdf70t6u27rsr56he4",
+    "slug": "caviar-nft",
+    "name": "Caviar NFT",
+    "description": "Caviar DAO",
+    "avatarUrl": "https://fra1.digitaloceanspaces.com/space.superciety.com/superciety/media/24/10.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=TM6GAZPN4FPRVUGMWJBD%2F20230102%2Ffra1%2Fs3%2Faws4_request&X-Amz-Date=20230102T003839Z&X-Amz-SignedHeaders=host&X-Amz-Expires=259200&X-Amz-Signature=ad633b60c6ae55d5462f679f65980ac3769845a222d0769c91622cfaab6dad98",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": false,
+    "private": false,
+    "tags": [],
+    "socials": [],
+    "governance": {
+      "nft": false,
+      "owned": null,
+      "token": "CAVIAR-2106e0",
+      "tokenName": "Caviar",
+      "tokenDecimals": 18,
+      "quorum": "1",
+      "minVoteWeight": null,
+      "minProposeWeight": null,
+      "votingPeriodMinutes": 14400
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1akkpa99huyqrstk7keq2tlz86uu2fpcjdh2adpg39xje9493jy5sw27v3x",
+            "username": "juusss.elrond",
+            "name": "Caviar NFT",
+            "bio": "NFT collection with the best weekly rewards on Elrond Network, Really unprecedented.",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/bafybeieb5lh6txl67cdf4vinsuarrb3wxoan24e6k6z66lzoa7z7sieahe/item.png",
+            "followers": 3,
+            "followings": 1,
+            "connections": {
+              "discord": {
+                "username": "Caviar#6785",
+                "link": "https://discordapp.com/users/987340479341412423"
+              },
+              "github": {
+                "username": "ihbou",
+                "link": "https://github.com/ihbou"
+              },
+              "twitter": {
+                "username": "xCaviar_NFT",
+                "link": "https://twitter.com/xCaviar_NFT"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqtd355gvsw6k9s6apgxznza3cwwkwsk6l27rsqf8lzz",
+    "slug": "the-unknown-gods-dao",
+    "name": "The Unknown Gods DAO",
+    "description": "We want our DAO to feel like a \u201csecret society\u201d. A society where the most powerful gods will rule the lands of all deities.",
+    "avatarUrl": "https://fra1.digitaloceanspaces.com/space.superciety.com/superciety/media/27/524.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=TM6GAZPN4FPRVUGMWJBD%2F20230102%2Ffra1%2Fs3%2Faws4_request&X-Amz-Date=20230102T003839Z&X-Amz-SignedHeaders=host&X-Amz-Expires=259200&X-Amz-Signature=a48f42a0d9888576a480cf83e298404cac3f75889e8f5e6c41fcb2ddb7324073",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": false,
+    "private": false,
+    "tags": [],
+    "socials": [],
+    "governance": {
+      "nft": true,
+      "owned": false,
+      "token": "UNKGODS-a48ae1",
+      "tokenName": "UnknownGods",
+      "tokenDecimals": 0,
+      "quorum": null,
+      "minVoteWeight": null,
+      "minProposeWeight": "1",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1q9ys2saqkyt2egse96j95k5decv4rjp9gv5rp448y4jzm4xetyrqkd02sg",
+            "username": null,
+            "name": "Zalmoxis",
+            "bio": "The Unknown Gods CEO",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/bafybeihodf5xnvs7adpaebezbanijaa32svzzmmrbu46ly3anq6hhv7zfu/581.png",
+            "followers": 2,
+            "followings": 1,
+            "connections": [],
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqw2jzfk27dx8mlhd3p9dswlp4v60lf9kk27rszcg2ad",
+    "slug": "itheum-builders-portal",
+    "name": "Itheum Builders Portal",
+    "description": "The Itheum Foundation is the overarching DAO that manages the disbursal of grants to support ecosystem growth",
+    "avatarUrl": "",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": false,
+    "private": true,
+    "tags": [],
+    "socials": [],
+    "governance": {
+      "nft": null,
+      "owned": null,
+      "token": null,
+      "tokenName": null,
+      "tokenDecimals": null,
+      "quorum": null,
+      "minVoteWeight": null,
+      "minProposeWeight": "1",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1ck5k3w3w3yscvah8667mz87nlrkfd23mek22vhr5ucyckv4ulkwqzn3xg3",
+            "username": null,
+            "name": null,
+            "bio": null,
+            "hasProfileImage": false,
+            "profileImageUrl": "https://api.superciety.com/images/profile-picture-placeholder.png",
+            "followers": 0,
+            "followings": 1,
+            "connections": [],
+            "boosterUntil": null
+          },
+          {
+            "address": "erd1s2g5pq8s5ktnmtnjhzvfu5pmrvrvj3r3culrf9glay8hfy6dyxzq5skg89",
+            "username": null,
+            "name": null,
+            "bio": null,
+            "hasProfileImage": false,
+            "profileImageUrl": "https://api.superciety.com/images/profile-picture-placeholder.png",
+            "followers": 0,
+            "followings": 1,
+            "connections": [],
+            "boosterUntil": null
+          },
+          {
+            "address": "erd1ttexfnluaky2zcqr2xljgrth5580j6rx2fya2mx7mruamfvfxxjske3tea",
+            "username": null,
+            "name": null,
+            "bio": null,
+            "hasProfileImage": false,
+            "profileImageUrl": "https://api.superciety.com/images/profile-picture-placeholder.png",
+            "followers": 0,
+            "followings": 1,
+            "connections": [],
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgq56su26kalwekzugk7ntd9zmqhcv5q7nt27rsmtqa7x",
+    "slug": "boycott-austria-netherlands",
+    "name": "Boycott Austria & Netherlands",
+    "description": "C23 is made for the purpose of financing and supporting projects, aimed at safeguarding life on planet earth.",
+    "avatarUrl": "https://fra1.digitaloceanspaces.com/space.superciety.com/superciety/media/32/Sun300.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=TM6GAZPN4FPRVUGMWJBD%2F20230102%2Ffra1%2Fs3%2Faws4_request&X-Amz-Date=20230102T003839Z&X-Amz-SignedHeaders=host&X-Amz-Expires=259200&X-Amz-Signature=a0182b4c8be5f44541b97a8ec44b2fd7dca2f0b46911796e7064efc24332cc95",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": false,
+    "private": false,
+    "tags": [],
+    "socials": [],
+    "governance": {
+      "nft": false,
+      "owned": false,
+      "token": "C23-1325d3",
+      "tokenName": "Twentythree",
+      "tokenDecimals": 6,
+      "quorum": null,
+      "minVoteWeight": "100000",
+      "minProposeWeight": "1000000",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd134hqafduq7kslfhrggsy9jhxu4cgu5m6tagkrjq630hgp204fd7szc5r3q",
+            "username": null,
+            "name": "Conglomerate 23 DAO",
+            "bio": "C23 Utility Eco-Token & DAO",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmdJ4Ckp1GcmjCmycSTTKQ4hZ2DTu6AKWAZSC2Skp7ewBu/Sun.png",
+            "followers": 1,
+            "followings": 1,
+            "connections": {
+              "github": {
+                "username": "C23token",
+                "link": "https://github.com/C23token"
+              },
+              "telegram": {
+                "username": "C23admin",
+                "link": "https://t.me/C23admin"
+              },
+              "twitter": {
+                "username": "C23token",
+                "link": "https://twitter.com/C23token"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqv28wvt2eeku0rlneuv45zk4jczdk8nkk27rslhqlma",
+    "slug": "alphaomega",
+    "name": "Alpha&Omega",
+    "description": "Endless Playground",
+    "avatarUrl": "",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": false,
+    "private": true,
+    "tags": [],
+    "socials": [],
+    "governance": {
+      "nft": true,
+      "owned": false,
+      "token": "ITHIF-22be92",
+      "tokenName": "IFmember",
+      "tokenDecimals": 0,
+      "quorum": "1",
+      "minVoteWeight": null,
+      "minProposeWeight": "1",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1ttexfnluaky2zcqr2xljgrth5580j6rx2fya2mx7mruamfvfxxjske3tea",
+            "username": null,
+            "name": null,
+            "bio": null,
+            "hasProfileImage": false,
+            "profileImageUrl": "https://api.superciety.com/images/profile-picture-placeholder.png",
+            "followers": 0,
+            "followings": 1,
+            "connections": [],
+            "boosterUntil": null
+          },
+          {
+            "address": "erd1ck5k3w3w3yscvah8667mz87nlrkfd23mek22vhr5ucyckv4ulkwqzn3xg3",
+            "username": null,
+            "name": null,
+            "bio": null,
+            "hasProfileImage": false,
+            "profileImageUrl": "https://api.superciety.com/images/profile-picture-placeholder.png",
+            "followers": 0,
+            "followings": 1,
+            "connections": [],
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqc587dp02fxhxqfvvqm4yqjp8vxke34kg27rs2g7ywd",
+    "slug": "earthspirits-dao",
+    "name": "EarthSpirits DAO",
+    "description": "Part of ArCPAclub DAO, dedicated to owners of NFTs from EarthSpirits Collection.",
+    "avatarUrl": "https://fra1.digitaloceanspaces.com/space.superciety.com/superciety/media/35/RtuukITlQAggSbffC4Ma.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=TM6GAZPN4FPRVUGMWJBD%2F20230102%2Ffra1%2Fs3%2Faws4_request&X-Amz-Date=20230102T003839Z&X-Amz-SignedHeaders=host&X-Amz-Expires=259200&X-Amz-Signature=8dc1dd76a18be13ba3cd093f0d4ae07395d169a8e1a3c997f26f6e8cb6752ad0",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": true,
+    "private": false,
+    "tags": [],
+    "socials": {
+      "discord": "https://discord.gg/jmfjQESvJY",
+      "twitter": "https://twitter.com/_Official_CPA",
+      "website": "https://artcpaclub.com/",
+      "youtube": "https://www.youtube.com/@ArtCPAclub_Official/videos",
+      "telegram": "https://t.me/EarthSpirits"
+    },
+    "governance": {
+      "nft": true,
+      "owned": false,
+      "token": "CPA-8f71d0",
+      "tokenName": "EarthSpirits",
+      "tokenDecimals": 0,
+      "quorum": "4",
+      "minVoteWeight": null,
+      "minProposeWeight": "2",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1j5fdqzwr6jes7vh5uxmyg9ekug5yud84578m2aft56wgunulwsgsaz9n42",
+            "username": "cipff.elrond",
+            "name": "Ciprian Popovici",
+            "bio": "Just another soul living and traveling this realm. NFT enthusiast and creator. I prefer Elrond Network because of its amazing community, negative carbon pollution, and low fees. In continuous search of high art standards to share with the community.",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmTpMPcRym8xTxWUUUncFVxfpmaMdBjCpEFfswUGbK6Vsq",
+            "followers": 7,
+            "followings": 1,
+            "connections": {
+              "discord": {
+                "username": "CIP#0674",
+                "link": "https://discordapp.com/users/500448269642498088"
+              },
+              "twitter": {
+                "username": "_Official_CPA",
+                "link": "https://twitter.com/_Official_CPA"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqq459rj8kvrdynqhjy0s4artl0qwmv34w27rshhqmah",
+    "slug": "community-dao",
+    "name": "Community DAO",
+    "description": "Part of ArtCPAclub DAO, dedicated to NFT owners of Community Collection",
+    "avatarUrl": "https://fra1.digitaloceanspaces.com/space.superciety.com/superciety/media/38/Elrond-Future~1~Community~ArtCPAclub.jpg?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=TM6GAZPN4FPRVUGMWJBD%2F20230102%2Ffra1%2Fs3%2Faws4_request&X-Amz-Date=20230102T003839Z&X-Amz-SignedHeaders=host&X-Amz-Expires=259200&X-Amz-Signature=0897fdf928da4dd76d86ac084f5685c0214a066416e99116e5bc20738e84a001",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": true,
+    "private": false,
+    "tags": [],
+    "socials": {
+      "discord": "https://discord.gg/jmfjQESvJY",
+      "twitter": "https://twitter.com/_Official_CPA",
+      "website": "https://artcpaclub.com/",
+      "youtube": "https://www.youtube.com/@ArtCPAclub_Official/videos",
+      "telegram": "https://t.me/EarthSpirits"
+    },
+    "governance": {
+      "nft": true,
+      "owned": false,
+      "token": "CPA-c6d2fb",
+      "tokenName": "Community",
+      "tokenDecimals": 0,
+      "quorum": "4",
+      "minVoteWeight": "2",
+      "minProposeWeight": "2",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1j5fdqzwr6jes7vh5uxmyg9ekug5yud84578m2aft56wgunulwsgsaz9n42",
+            "username": "cipff.elrond",
+            "name": "Ciprian Popovici",
+            "bio": "Just another soul living and traveling this realm. NFT enthusiast and creator. I prefer Elrond Network because of its amazing community, negative carbon pollution, and low fees. In continuous search of high art standards to share with the community.",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmTpMPcRym8xTxWUUUncFVxfpmaMdBjCpEFfswUGbK6Vsq",
+            "followers": 7,
+            "followings": 1,
+            "connections": {
+              "discord": {
+                "username": "CIP#0674",
+                "link": "https://discordapp.com/users/500448269642498088"
+              },
+              "twitter": {
+                "username": "_Official_CPA",
+                "link": "https://twitter.com/_Official_CPA"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqjtc5rpvxv3cm9z9mh406xyxfnfwjw5mq27rs2kl2ck",
+    "slug": "cpa-dao",
+    "name": "CPA DAO",
+    "description": "Part of ArtCPAclub DAO, CPA owners can propose,vote and decide the future of their investment.",
+    "avatarUrl": "https://fra1.digitaloceanspaces.com/space.superciety.com/superciety/media/41/logo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=TM6GAZPN4FPRVUGMWJBD%2F20230102%2Ffra1%2Fs3%2Faws4_request&X-Amz-Date=20230102T003839Z&X-Amz-SignedHeaders=host&X-Amz-Expires=259200&X-Amz-Signature=a1272e6a048a279927d8dea07ea2769515a0aae8e59ce136fe1daf2fbd09d172",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": true,
+    "private": false,
+    "tags": [],
+    "socials": {
+      "discord": "https://discord.gg/jmfjQESvJY",
+      "twitter": "https://twitter.com/_Official_CPA",
+      "website": "https://artcpaclub.com/",
+      "youtube": "https://www.youtube.com/@ArtCPAclub_Official/videos",
+      "telegram": "https://t.me/EarthSpirits"
+    },
+    "governance": {
+      "nft": false,
+      "owned": false,
+      "token": "CPA-97530a",
+      "tokenName": "CPA",
+      "tokenDecimals": 6,
+      "quorum": "1000000000000",
+      "minVoteWeight": "20000000000",
+      "minProposeWeight": "50000000000",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1j5fdqzwr6jes7vh5uxmyg9ekug5yud84578m2aft56wgunulwsgsaz9n42",
+            "username": "cipff.elrond",
+            "name": "Ciprian Popovici",
+            "bio": "Just another soul living and traveling this realm. NFT enthusiast and creator. I prefer Elrond Network because of its amazing community, negative carbon pollution, and low fees. In continuous search of high art standards to share with the community.",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmTpMPcRym8xTxWUUUncFVxfpmaMdBjCpEFfswUGbK6Vsq",
+            "followers": 7,
+            "followings": 1,
+            "connections": {
+              "discord": {
+                "username": "CIP#0674",
+                "link": "https://discordapp.com/users/500448269642498088"
+              },
+              "twitter": {
+                "username": "_Official_CPA",
+                "link": "https://twitter.com/_Official_CPA"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqpvft2p08rmmeysys3drlvpfjn5ykxhrm27rs7vk55u",
+    "slug": "test-dao-1",
+    "name": "Test DAO",
+    "description": "testing",
+    "avatarUrl": "",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": false,
+    "private": true,
+    "tags": [],
+    "socials": [],
+    "governance": {
+      "nft": false,
+      "owned": false,
+      "token": "SUPER-507aa6",
+      "tokenName": "SUPER",
+      "tokenDecimals": 18,
+      "quorum": null,
+      "minVoteWeight": null,
+      "minProposeWeight": "10000000000000000000",
+      "votingPeriodMinutes": 3
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1kc7v0lhqu0sclywkgeg4um8ea5nvch9psf2lf8t96j3w622qss8sav2zl8",
+            "username": null,
+            "name": "Moon",
+            "bio": null,
+            "hasProfileImage": false,
+            "profileImageUrl": "https://api.superciety.com/images/profile-picture-placeholder.png",
+            "followers": 1,
+            "followings": 1,
+            "connections": [],
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqt3r8f0uxjhmpfgp2wf9wdus8uq4ehqac27rsxe22vg",
+    "slug": "faintartx-dao",
+    "name": "faintart.x DAO",
+    "description": "Story driven project using AI and powered by the holders to evolve and grow.",
+    "avatarUrl": "",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": false,
+    "private": false,
+    "tags": [],
+    "socials": [],
+    "governance": {
+      "nft": true,
+      "owned": false,
+      "token": "FNT-3f711b",
+      "tokenName": "Faintart",
+      "tokenDecimals": 0,
+      "quorum": "1",
+      "minVoteWeight": null,
+      "minProposeWeight": "1",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd13fa096cujmq7rdstsrylwj7x3qszgq3cldr33m96nad6rrz2lzns0aduel",
+            "username": "gersiusteh.elrond",
+            "name": "Mr. Satan",
+            "bio": "NFT enthusiast, i love to code and have fun.",
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/QmeASSx1GtQfo2XX8d9A5yHA2k25zyZdvB64H4NuFNnxa8/2212.png",
+            "followers": 3,
+            "followings": 3,
+            "connections": {
+              "discord": {
+                "username": "xsperd#9577",
+                "link": "https://discordapp.com/users/906947993217925140"
+              },
+              "github": {
+                "username": "xsperd",
+                "link": "https://github.com/xsperd"
+              },
+              "telegram": {
+                "username": "niftrata",
+                "link": "https://t.me/niftrata"
+              },
+              "twitter": {
+                "username": "xsperd",
+                "link": "https://twitter.com/xsperd"
+              }
+            },
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqgu0qsx6233xs6hq2nwhxmhddzl4stpx827rsn5uzlw",
+    "slug": "xlauncher",
+    "name": "XLauncher",
+    "description": "XLauncher DAO",
+    "avatarUrl": "",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": false,
+    "private": false,
+    "tags": [],
+    "socials": [],
+    "governance": {
+      "nft": null,
+      "owned": null,
+      "token": null,
+      "tokenName": null,
+      "tokenDecimals": null,
+      "quorum": null,
+      "minVoteWeight": null,
+      "minProposeWeight": null,
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [{ "name": "leader", "users": [] }]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqsah2njxdvywhxhqemdvjp8vggut7w6hc27rskaeutc",
+    "slug": "epunksdao",
+    "name": "EPUNKSDAO",
+    "description": "EPUNKSDAO - Leading NFT-focused dao in MultiversX",
+    "avatarUrl": "https://fra1.digitaloceanspaces.com/space.superciety.com/superciety/media/45/banner.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=TM6GAZPN4FPRVUGMWJBD%2F20230102%2Ffra1%2Fs3%2Faws4_request&X-Amz-Date=20230102T003839Z&X-Amz-SignedHeaders=host&X-Amz-Expires=259200&X-Amz-Signature=89a583502d820069e8e7bf982c6590611b0a5e9f01c4537b96f380db29fbe845",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": false,
+    "private": true,
+    "tags": [],
+    "socials": [],
+    "governance": {
+      "nft": true,
+      "owned": false,
+      "token": "EPUNKSDAO-cd4a0a",
+      "tokenName": "EPUNKSDAO",
+      "tokenDecimals": 0,
+      "quorum": "1",
+      "minVoteWeight": null,
+      "minProposeWeight": "1",
+      "votingPeriodMinutes": 1440
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1qd7zm6n9qvl7teyjfssrsrrldfg32lunsdmr46yzgs5e96wpkrrqnq7mdt",
+            "username": null,
+            "name": "EPUNKSDAO",
+            "bio": null,
+            "hasProfileImage": true,
+            "profileImageUrl": "https://media.elrond.com/nfts/asset/bafybeieoklbdjl6tgysgt7b2vpahc6msgdf25nkiunrax2kq4zqhl6yz5u/item.MP4",
+            "followers": 0,
+            "followings": 1,
+            "connections": [],
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgq86made7wtf2pfhn70faa52zswgsmvfl327rs463nvx",
+    "slug": "test-dao-2",
+    "name": "test dao",
+    "description": "test dao",
+    "avatarUrl": "",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": false,
+    "private": false,
+    "tags": [],
+    "socials": [],
+    "governance": {
+      "nft": null,
+      "owned": null,
+      "token": null,
+      "tokenName": null,
+      "tokenDecimals": null,
+      "quorum": null,
+      "minVoteWeight": null,
+      "minProposeWeight": "1",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [{ "name": "leader", "users": [] }]
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqdm9fcsgdl6wqkmpurppt5dw2u9mqhxfh27rscaur5j",
+    "slug": "itheum-builders-portal-1",
+    "name": "Itheum Builders Portal",
+    "description": "The Itheum Builders Portal is the DAO that manages the disbursal of grants to support the growth of the Itheum Ecosystem.",
+    "avatarUrl": "",
+    "isAvatarNft": false,
+    "headerImageUrl": null,
+    "verified": false,
+    "private": true,
+    "tags": [],
+    "socials": [],
+    "governance": {
+      "nft": true,
+      "owned": false,
+      "token": "ITHIF-22be92",
+      "tokenName": "IFmember",
+      "tokenDecimals": 0,
+      "quorum": null,
+      "minVoteWeight": null,
+      "minProposeWeight": "1",
+      "votingPeriodMinutes": 4320
+    },
+    "children": [],
+    "roles": [
+      {
+        "name": "leader",
+        "users": [
+          {
+            "address": "erd1ttexfnluaky2zcqr2xljgrth5580j6rx2fya2mx7mruamfvfxxjske3tea",
+            "username": null,
+            "name": null,
+            "bio": null,
+            "hasProfileImage": false,
+            "profileImageUrl": "https://api.superciety.com/images/profile-picture-placeholder.png",
+            "followers": 0,
+            "followings": 1,
+            "connections": [],
+            "boosterUntil": null
+          }
+        ]
+      }
+    ]
+  }
+]
