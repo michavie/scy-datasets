@@ -30,6 +30,26 @@ Documentation of experimental API: [https://api.superciety.com/docs/#endpoints](
 6. Video tutorials on using snapshot.
    - Videos tutorials are currently not available.
 
+## Data Types
+
+The API exports contain collections (array) of domain-specific objects:
+
+- `User`: in `full-api-exports/all-stats-members-proposals-global.json` & `all-stats-members-votes-global.json`
+- `Entity` (the Fellowship DAO): in `full-api-exports/all-entities.json`
+
+While their general properties can be derived from the provided exports, here are a few more details that may be good to know:
+
+### About the USER object
+
+The user object contains general information about members, but can also contain _conditional_ properties depending on the context:
+
+- in `all-stats-members-proposals-global.json`: a conditional `proposals` (integer) property that signals the total amount of PROPOSALS created by the user
+- in `all-stats-members-votes-global.json`: a conditional `votes` (integer) property that signals the total amount VOTES the user has performed
+
+### About the ENTITY object
+
+The Entity object also contains general information about the Fellowship DAO, including a `roles` property which is an array of Roles created for the DAO. Each of those roles lists `User`s that are assigned a role in the `Entity` under the `roles->*->users` key.
+
 ---
 
 In addition to the above, there is a lot more data that can be fetched using the API. Please refer to the [docs](https://api.superciety.com/docs/#endpoints).
